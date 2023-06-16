@@ -1,5 +1,5 @@
 // Tham số của live2d phải là đường dẫn tuyêt đối
-const live2d_path = ("https://fastly.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/")
+const live2d_path = ("./waifu.css")
 //const live2d_path = "/live2d-widget/";
 
 // Đóng các tài nguyên không đồng bộ
